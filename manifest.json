@@ -3,7 +3,7 @@
   "short_name": "Sourabh",
   "theme_color": "#2f5071",
   "background_color": "#8cabc3",
-  "display": "browser",
+  "display": "standalone",
   "Scope": "/",
   "start_url": "/",
   "icons": [
